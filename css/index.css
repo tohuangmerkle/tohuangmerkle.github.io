@@ -1,0 +1,12 @@
+.indexMain {
+    width: 1000px;
+    margin: 0 auto;
+}
+.item {
+    width: 1000px;
+    height: 500px;
+}
+.item img {
+    width: 100%;
+    height: 100%;
+}
